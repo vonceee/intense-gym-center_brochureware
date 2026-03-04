@@ -1,9 +1,9 @@
 function App() {
   return (
     <div className="App">
-      {/* <div className="demo-banner">
+      <div className="demo-banner">
          <p><strong>DEMO ONLY!</strong> THIS WEBSITE IS CURRENTLY FOR DEMONSTRATION PURPOSES ONLY.</p>
-      </div> */}
+      </div>
       <div className="container">
         <nav>
           <div className="logo">
